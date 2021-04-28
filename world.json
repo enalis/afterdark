@@ -5,46 +5,4 @@
   "version": "1.0.0",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "packs": [
-    {
-      "label": "Custom Races",
-      "entity": "Item",
-      "name": "custom-races",
-      "path": "packs/custom-races.db",
-      "system": "pf1",
-      "package": "world",
-      "absPath": "/forge-vtt/users/5f4b3f12a7f7e16e4013bc80/Data/worlds/afterdark/packs/custom-races.db"
-    },
-    {
-      "label": "Custom Items",
-      "entity": "Item",
-      "name": "custom-items",
-      "path": "packs/custom-items.db",
-      "system": "pf1",
-      "package": "world",
-      "absPath": "/forge-vtt/data/Data/worlds/afterdark/packs/custom-items.db"
-    }
-  ],
-  "languages": [],
-  "authors": [],
-  "keywords": [],
-  "socket": false,
-  "url": "",
-  "manifest": "",
-  "download": "",
-  "license": "",
-  "readme": "",
-  "bugs": "",
-  "changelog": "",
-  "background": "https://assets.forge-vtt.com/5f4b3f12a7f7e16e4013bc80/Game%20Banners/2153648%20-%20The_Witcher%20The_Witcher_3%20Triss_Merigold%20Yennefer%20sakimichan.jpg",
-  "system": "pf1",
-  "coreVersion": "0.7.9",
-  "systemVersion": "0.75.4",
-  "nextSession": "",
-  "availability": 0,
-  "unavailable": false,
-  "id": "afterdark"
 }
